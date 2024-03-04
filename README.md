@@ -1,16 +1,3 @@
-# taxi_test
+Separei o desenvolvimento dos desafios da programação mobile em alguns repositórios, esse em especial trata sobre como utilizar o a localização do GPS do smartphone e de como enviar as coordenadas de latitude e longitude para um banco de dados.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+OBSERVAÇÃO: É NECESSARIO A CRIAÇÃO DE UM ENDPOINT COM O METODO POST PAR PODER INSERIR AS COORDENADAS EM SEU BANCO DE DADOS.
